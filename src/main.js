@@ -16,4 +16,8 @@ function addTwo() {
     return 2
 }
 
+function addOne() {
+    return 1
+}
+
 module.exports = { addFive, addFour, addThree, addTwo}
