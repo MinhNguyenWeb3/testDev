@@ -8,4 +8,8 @@ function addFour() {
     return 4
 }
 
-module.exports = { addFive, addFour}
+function addThree() {
+    return 3
+}
+
+module.exports = { addFive, addFour, addThree}
