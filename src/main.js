@@ -12,4 +12,4 @@ function addThree() {
     return 3
 }
 
-module.exports = { addFive, addFour}
+module.exports = { addFive, addFour, addThree}
