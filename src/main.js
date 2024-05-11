@@ -20,4 +20,8 @@ function addOne() {
     return 1
 }
 
-module.exports = { addFive, addFour, addThree, addTwo}
+function addSix() {
+    return 6
+}
+
+module.exports = { addFive, addFour, addThree, addTwo, addOne, addSix}
