@@ -4,4 +4,8 @@ function addFive() {
     return 5
 }
 
-module.exports = { addFive}
+function addFour() {
+    return 4
+}
+
+module.exports = { addFive, addFour}
